@@ -1,0 +1,13 @@
+1. Set up NPM Packages for all
+
+2. Create global vars:
+	- require vars
+	- vars for process.argv[i]
+	- 
+
+3. Create OMDB App
+
+4. Create Spotify App
+
+5. Create Twitter App
+
